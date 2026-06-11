@@ -1,2 +1,8 @@
 github
 gitlab
+
+
+git reset hash
+
+new hash
+
